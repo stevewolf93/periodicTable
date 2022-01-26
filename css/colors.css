@@ -1,0 +1,14 @@
+:root {
+  --hydrogen: rgb(163, 163, 255);
+  --alkali-metal: rgb(255, 120, 66);
+  --alkali-earth-metal: rgb(231, 201, 102);
+  --transition-metal: rgb(160, 199, 98);
+  --metal:rgb(250, 236, 111);
+  --snowflake:rgb(200, 200, 200);
+  --metaloid:rgb(98, 144, 22) ;
+  --non-metal: rgb(125, 125, 235);
+  --halogen: rgb(110, 59, 110);
+  --noble-gas:rgb(115, 177, 235);
+  --lathanide:rgb(51, 120, 141);
+  --actinide:rgb(68, 156, 130);
+}
